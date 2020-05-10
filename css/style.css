@@ -1,0 +1,92 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.body {
+    background-image: url(/img/pulson236.jpg);
+    background-color: grey;
+    margin: 20px;
+    color: blanchedalmond;
+}
+.head {
+    display: block;
+    border-radius: 5px;
+    background-color: rgb(179, 223, 77);
+    color: blanchedalmond;
+    width: 1400px;
+    height: 100px;
+    margin: 0 auto;
+}
+.navigation {
+    background-color: rgb(228, 72, 98);
+    color: blanchedalmond;
+    border-radius: 5px;
+    width: 1400px;
+    height: 50px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.navigation a {
+    text-decoration: none;
+}
+.main-body {
+    border-radius: 5px;
+    display: flex;
+    width: 1400px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 20px;
+    
+}
+.sidebar {
+    border-radius: 5px;
+    background-color:rgb(122, 226, 148);
+    width: 200px;
+    height: 500px;
+    margin-right: 20px;
+}
+.sidebar a {
+    background-color: rgb(235, 164, 33);
+    display: flex;
+    border-radius: 5px;
+    width: 160px;
+    height: 30px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    text-decoration: none;
+    
+
+}
+.main-content {
+    border-radius: 5px;
+    background-color: rgb(10, 226, 64);
+    width: 1180px;
+    height: 500px;
+}
+.card-section {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    margin-left: 20px;
+}
+.art {
+    background-image: url(/img/pulson236.jpg);
+    border-radius: 5px;
+    display: block;
+    margin-right: 20px;
+    margin-top: 20px;
+    background-color: rgb(93, 113, 224);
+    width: 366px;
+    height: 220px;
+    
+    
+    
+}
+.foot {
+    border-radius: 5px;
+    background-color: rgb(228, 129, 0);
+    width: 1400px;
+    height: 50px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
